@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/react-casino/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-casino/static/js/main.a979aac8.chunk.js",
-    "main.js.map": "/react-casino/static/js/main.a979aac8.chunk.js.map",
-    "runtime-main.js": "/react-casino/static/js/runtime-main.dde356c3.js",
-    "runtime-main.js.map": "/react-casino/static/js/runtime-main.dde356c3.js.map",
-    "static/js/2.88721804.chunk.js": "/react-casino/static/js/2.88721804.chunk.js",
-    "static/js/2.88721804.chunk.js.map": "/react-casino/static/js/2.88721804.chunk.js.map",
-    "static/js/3.5c904e6d.chunk.js": "/react-casino/static/js/3.5c904e6d.chunk.js",
-    "static/js/3.5c904e6d.chunk.js.map": "/react-casino/static/js/3.5c904e6d.chunk.js.map",
+    "main.js": "/react-casino/static/js/main.3ed5245b.chunk.js",
+    "main.js.map": "/react-casino/static/js/main.3ed5245b.chunk.js.map",
+    "runtime-main.js": "/react-casino/static/js/runtime-main.811c39bd.js",
+    "runtime-main.js.map": "/react-casino/static/js/runtime-main.811c39bd.js.map",
+    "static/js/2.f7e7e164.chunk.js": "/react-casino/static/js/2.f7e7e164.chunk.js",
+    "static/js/2.f7e7e164.chunk.js.map": "/react-casino/static/js/2.f7e7e164.chunk.js.map",
     "index.html": "/react-casino/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-casino/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.88721804.chunk.js.LICENSE.txt": "/react-casino/static/js/2.88721804.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-casino/static/media/logo.6ce24c58.svg"
+    "static/js/2.f7e7e164.chunk.js.LICENSE.txt": "/react-casino/static/js/2.f7e7e164.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dde356c3.js",
-    "static/js/2.88721804.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a979aac8.chunk.js"
+    "static/js/runtime-main.811c39bd.js",
+    "static/js/2.f7e7e164.chunk.js",
+    "static/js/main.3ed5245b.chunk.js"
   ]
 }
